@@ -6,6 +6,6 @@ Our repo consist of two jupyter noteboooks(yolov8 + SAM, grounding dino + SAM). 
 ## Run 
 Both of them require to bind the data folder to the project root. 
 
-In dino notebook, it askes the user to have a roboflow token to have the function to download dataset from roboflow.com. 
+In dino notebook, user need to use a roboflow token to download a dataset from roboflow.com. 
 
-In yolov8, user need to upload the zip file and unzip it, some path may need to be changed in case of running several times.
+In yolov8, user need to unzip the zip file in src folder, some path may need to be changed in case of running several times.
